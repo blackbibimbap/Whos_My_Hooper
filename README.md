@@ -1,5 +1,5 @@
 # Whos_My_Hooper
-Turn a basketball database into a shot chart simulation
+Turn a NBA database into a shot chart simulation
 
 ## Authors
 
