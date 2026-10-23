@@ -24,8 +24,8 @@ Visualize individual shot attempts on a basketball court using shot location coo
 
 ### 3. Shooting performance analysis
 
-Analyze player performance using statstis such as:
-Field goal Percentage, Shot attempts and makes,Shooting percentage by distance, Shooting efficiency,Shot freqeuncy
+Analyze player performance using statistics such as:
+Points per shot, Shot attempts and makes, Shooting frequency and percentage by zones
 
 ### 4. Data Filtering
 
