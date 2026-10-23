@@ -4,4 +4,4 @@ DB_USERNAME="NBAdmin" ##OMMITTED FOR LOCAL CONNECTION BUT MUST BE FILLED IN FOR 
 DB_PASSWORD="basketball" ##OMMITTED FOR LOCAL CONNECTION BUT MUST BE FILLED IN FOR SQL CONNNECTION
 DB_DATABASE="NBA" #THIS IS WHERE DATABASE NAME GOES
 
-#This is supposed to be a .env file, just copy the above and put it into a .env file
+##This is supposed to be a .env file, just copy the above and put it into a .env file
