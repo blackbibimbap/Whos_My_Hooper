@@ -22,11 +22,11 @@ class RDSConfigMSSQLPython:
         validator=validators.instance_of(str)
     )
     DB_USERNAME: str = field(
-        factory=lambda: os.getenv("DB_USERNAME", ""), ##MUST BE SAME AS ENV FILE
+        factory=lambda: os.getenv("DB_USERNAME", "NBAdmin"), ##MUST BE SAME AS ENV FILE
         validator=validators.instance_of(str)
     )
     DB_PASSWORD: str = field(
-        factory=lambda: os.getenv("DB_PASSWORD", ""), ##MUST BE SAME AS ENV FILE
+        factory=lambda: os.getenv("DB_PASSWORD", "basketball"), ##MUST BE SAME AS ENV FILE
         validator=validators.instance_of(str)
     )
  
