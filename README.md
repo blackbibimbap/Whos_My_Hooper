@@ -35,4 +35,4 @@ Player, Game, Season, Quarter, Shot zone
 
 ## Authors
 
-Zac Jerald San Juan, Adam Berbash, Hajun Huh Jackie Lam
+Zac Jerald San Juan, Adam Berbash, Hajun Huh, Jackie Lam
